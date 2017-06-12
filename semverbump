@@ -7,7 +7,7 @@ __print_usage() {
 }
 
 __print_version() {
-    echo $VERSION_BUMPED
+    echo "${VERSION_CURRENT} --> ${VERSION_BUMPED}"
     exit 0
 }
 
