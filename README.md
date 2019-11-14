@@ -31,3 +31,7 @@ Using `major` will bump `0.1.1` to `1.0.0`
 
     semverbump major
     0.1.1 --> 1.0.0
+
+
+# regex
+    https://regex101.com/r/ahzkLW/1/
